@@ -1,4 +1,4 @@
-' Script Name 		: system_restore.vbs
+' Script Name 		: system_restore.vb
 ' Description 		: Create a system restore point, it is dated at today's date
 
 localdate=date()
